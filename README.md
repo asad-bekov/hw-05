@@ -39,6 +39,7 @@ if [ ! -f "$INDEX_FILE" ]; then
 fi
 
 exit 0
+```
 
 Конфигурационный файл Keepalived: `/etc/keepalived/keepalived.conf`
 
