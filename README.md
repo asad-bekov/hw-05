@@ -9,10 +9,11 @@
 * Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 * На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/1.png)
-![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/2.png)
-
 [Схема pkt](https://github.com/asad-bekov/hw-05/blob/main/img/hsrp_updated.pkt)
+
+![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/1.png)
+
+![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/2.png)
 
 ## Задание 2
 * Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
@@ -76,7 +77,10 @@ vrrp_script chk_nginx {
 ```
 
 ![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/3.png)
+
 ![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/4.png)
+
 ![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/5.png)
-![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/5.png)
+
+![alt text](https://github.com/asad-bekov/hw-05/blob/main/img/6.png)
 
